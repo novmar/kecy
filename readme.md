@@ -1,15 +1,20 @@
 Vykaly 
 =======
 ```
-u zelvi skaly viskaly
-kdyz zvykaly vykaly
+u želví skály vískaly,
+když žvýkaly výkaly
 ```
 
 strelecka
 ========
 ```
-jehla 
-obehla vne 
-halvne 
-obe hlavne
+oběhla vně
+obě hlavně
+```
+
+postelova
+=========
+```
+tázala se pani paní,
+Jaké mají s paní spaní
 ```
